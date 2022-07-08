@@ -3,9 +3,9 @@ import React from 'react'
 const Shop = () => {
   return (
     <div className='container'>
-        <h2>Buy Adidas Shoes</h2>
+        <h2>Deposit Money</h2>
         <button className='btn btn-primary mx-2'>-</button>
-            Add this item to cart
+            Update Balance
         <button className='btn btn-primary mx-2'>+</button>
 
     </div>
